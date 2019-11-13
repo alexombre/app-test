@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary {
+	background: linear-gradient(to top right, #2948ff, #396afc);
+	color: #fff;
+}
+
+.text-primary {
+  color: #000000;	
+}
